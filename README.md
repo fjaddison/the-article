@@ -1,3 +1,8 @@
+#The Article
+This is a sandbox build of the begginings of what it would take to create a media website that allows user interraction, display of articles, and whatever else it may need to function how I would like it.
+
+It's also a practice into what it takes to build this type of website using React, Node, Express, GraphQL, MongoDB and Apollo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
